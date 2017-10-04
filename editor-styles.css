@@ -1,13 +1,3 @@
-/**
- * All of the CSS for your public-facing functionality should be
- * included in this file.
- */
- 
- /** In order to see any effects from your custom styles, 
-     you first need to add some CSS to your theme’s style 
-	 sheet. In our case, it will look like this: 
-   */
-
  .red-button {
     background-color:#bc3315;
     -moz-border-radius:3px;
